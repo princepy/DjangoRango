@@ -1,0 +1,2 @@
+# DjangoRango
+Rango Start idea
